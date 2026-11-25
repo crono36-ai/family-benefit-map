@@ -1,0 +1,107 @@
+{
+  "source_rows": 2454,
+  "boundary_records": 2473,
+  "rendered_features": 2454,
+  "matched_source_rows": 2454,
+  "unmatched_source_rows": [],
+  "boundary_codes_without_source": [
+    "197979799",
+    "199999499",
+    "297979799",
+    "299999499",
+    "397979799",
+    "399999499",
+    "497979799",
+    "499999499",
+    "597979799",
+    "599999499",
+    "697979799",
+    "699999499",
+    "797979799",
+    "799999499",
+    "897979799",
+    "899999499",
+    "997979799",
+    "999999499",
+    "ZZZZZZZZZ"
+  ],
+  "excluded_rows": [
+    {
+      "code": "Unknown",
+      "name": "Unknown",
+      "value": 80
+    },
+    {
+      "code": null,
+      "name": "Total",
+      "value": 1226145
+    }
+  ],
+  "missing_value_codes": [],
+  "boundary_fields": [
+    [
+      "SA2_CODE21",
+      9
+    ],
+    [
+      "SA2_NAME21",
+      50
+    ],
+    [
+      "CHG_FLAG21",
+      1
+    ],
+    [
+      "CHG_LBL21",
+      11
+    ],
+    [
+      "SA3_CODE21",
+      5
+    ],
+    [
+      "SA3_NAME21",
+      50
+    ],
+    [
+      "SA4_CODE21",
+      3
+    ],
+    [
+      "SA4_NAME21",
+      50
+    ],
+    [
+      "GCC_CODE21",
+      5
+    ],
+    [
+      "GCC_NAME21",
+      50
+    ],
+    [
+      "STE_CODE21",
+      1
+    ],
+    [
+      "STE_NAME21",
+      50
+    ],
+    [
+      "AUS_CODE21",
+      3
+    ],
+    [
+      "AUS_NAME21",
+      50
+    ],
+    [
+      "AREASQKM21",
+      31
+    ],
+    [
+      "LOCI_URI21",
+      254
+    ]
+  ]
+}
